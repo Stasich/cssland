@@ -1,7 +1,35 @@
-div{
-border: 1px solid #00c0f3;
-}
+/*div{
+	border: 1px solid red;
+}*/
 .kontaktistas {
-font-size: 18px;
-font-weight: bold;
+	font-size: 16px;
+	/*font-weight: bold;*/
+	font-family: Roboto, Arial;
+	color: white;
+}
+.btnstas {
+	background-color: #ffd318;
+	border-color: #ffd318;
+	color: #1c1c1c;
+	font-family: Roboto, Arial;
+}
+.btnstas:hover {
+	background-color: #ffb600;
+	border-color: #ffb600;
+	color: #1c1c1c;
+}
+.btnstas:focus {
+	background-color: #ffb600;
+	border-color: #ffb600;
+	color: #1c1c1c;
+}
+.topstas {
+    background-color: #24ADED;
+}
+.stastopdiv div {
+	padding: 2px;
+	height: 34px;
+}
+.stastopspan {
+	line-height: 2;
 }

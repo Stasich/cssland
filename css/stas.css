@@ -43,5 +43,17 @@
 	background-image: linear-gradient(to top,#ffffff,#eaf3fd);
 }
 .staslogo {
-	height: 100px;
+	height: 75px;
+}
+.staszavodi{
+	height: 63px;
+}
+.staszavodiv{
+	text-align: center;
+}
+.stasmidh1 {
+	font-size: 44px;
+	text-align: center;
+	font-weight: 300;
+	font-family: Roboto, Arial;
 }

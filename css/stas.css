@@ -1,6 +1,6 @@
-div{
+/*div{
 	border: 1px solid red;
-}
+}*/
 .kontaktistas {
 	font-size: 16px;
 	/*font-weight: bold;*/
@@ -34,5 +34,9 @@ div{
 	line-height: 2;
 }
 .stasmid{
- margin-top: 38px;
+	margin-top: 34px;
+	background-image: linear-gradient(to top,#ffffff,#eaf3fd);
+}
+.staslogo {
+	height: 100px;
 }

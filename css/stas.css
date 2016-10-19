@@ -29,10 +29,10 @@
 }
 .stastopdiv div {
 	padding: 2px;
-	height: 34px;
+/*	height: 34px;*/
 }
 .stastopspan {
-	line-height: 2;
+	line-height: 2.4;
 }
 .stasmid{
 	/*margin-top: 34px;*/

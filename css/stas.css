@@ -54,6 +54,18 @@
 .stasmidh1 {
 	font-size: 44px;
 	text-align: center;
-	font-weight: 300;
+	/*font-weight: 300;*/
 	font-family: Roboto, Arial;
+}
+.stasdivzakaz{
+	border: 2px solid #24ADED;
+	background-color: #24ADED;
+	color: white;
+	border-radius: 10px;
+}
+.stasformtext{
+	font-size: 20px;
+	font-family: Roboto, Arial;
+	text-align: center;
+	color: white;
 }

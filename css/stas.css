@@ -6,6 +6,7 @@
 	/*font-weight: bold;*/
 	font-family: Roboto, Arial;
 	color: white;
+	line-height: 1.9;
 }
 .btnstas {
 	background-color: #ffd318;
@@ -34,7 +35,7 @@
 	line-height: 2;
 }
 .stasmid{
-	margin-top: 34px;
+	/*margin-top: 34px;*/
 	background-image: linear-gradient(to top,#ffffff,#eaf3fd);
 }
 .staslogo {

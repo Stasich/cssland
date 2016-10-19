@@ -28,8 +28,12 @@
     background-color: #24ADED;
 }
 .stastopdiv div {
-	padding: 2px;
-/*	height: 34px;*/
+	line-height: 2.4;
+/*	padding: 2px;
+	height: 34px;*/
+}
+.stasstopknopkadiv {
+	line-height: 2.5 !important;
 }
 .stastopspan {
 	line-height: 2.4;

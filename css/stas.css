@@ -83,3 +83,6 @@
 	font-size: 22px;
 	color: black;
 }
+.stasindex {
+    z-index: 10000;
+}

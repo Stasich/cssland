@@ -22,11 +22,11 @@
 	color: #1c1c1c;
 }
 .topstas {
-    background-color: #24ADED;
+    background-color: #00c0f3;
 	height: 38px;
 }
 @media all and (max-width: 768px) {
-	.topstas {background-color: #24ADED;	height: 111px;}
+	.topstas {background-color: #00c0f3;	height: 111px;}
 }
 .stastopdiv div {
 	line-height: 2.4;
@@ -61,8 +61,8 @@
 	font-family: Roboto, Arial;
 }
 .stasdivzakaz{
-	border: 2px solid #24ADED;
-	background-color: #24ADED;
+	border: 2px solid #00c0f3;
+	background-color: #00c0f3;
 	color: white;
 	border-radius: 10px;
 }
@@ -75,11 +75,11 @@
 .stasich1nefor {
 	text-align: center;
 	font-size: 34px;
-	color: #24ADED;
+	color: #00c0f3;
 	font-weight: bold;
 }
 .stasichlisp {
-	list-style-image: url("../ris/strelka4.png");
+	list-style-image: url("../ris/strelka4n.png");
 	font-size: 22px;
 	color: black;
 }

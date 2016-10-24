@@ -1,3 +1,13 @@
+.bord {
+	 border: 2px solid #00c0f3;
+	 text-align: center;
+	 border-radius: 10px;
+	 background: white;
+}
+.bordtext {
+	  text-align: center;
+	  font-size: 27px;
+ }
 .kontaktistas {
 	font-size: 16px;
 	/*font-weight: bold;*/
@@ -85,4 +95,7 @@
 }
 .stasindex {
     z-index: 10000;
+}
+.diod {
+	width: 150px;
 }
